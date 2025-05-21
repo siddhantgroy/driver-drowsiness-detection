@@ -1,4 +1,3 @@
-# driver-drowsiness-detection
 # Driver Drowsiness, Distraction, and Gaze Detection System
 
 This project uses **MediaPipe**, **OpenCV**, and **Python** to monitor a driver's alertness in real-time using a webcam. It detects:
